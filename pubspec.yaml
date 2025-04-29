@@ -1,0 +1,39 @@
+name: smarthome
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+
+  simple_gradient_text: ^1.3.0
+
+  flutter:
+    sdk: flutter
+  flutter_login: ^4.2.1
+    
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/predator.png
+  - assets/sofa.jpg
+  - assets/logo.jpg
+  - assets/doctor.png
+  - assets/manager.png
+  - assets/teacher.png
+  - assets/business.png
+  - assets/analytor.png
+  - assets/bitcoin.png
+
+
+
